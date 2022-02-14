@@ -19,7 +19,6 @@
 
 - title: Lunes
   title-url: https://example.com/
-  date: Feb 2022
   subtitle: Fullstack Developer
   tags:
     - tag: Lenguaje
@@ -39,8 +38,15 @@
 
 - title: Miercoles
   title-url: https://example.com/
-  date: Feb 2022
   subtitle: Fullstack Developer
+  subtitle: Tec. Tecn.
+  subtitle: Artes Plásticas
+  subtitle: C. Naturales
+  timeline-side: left
+  
+- title: 
+  title-url: 
+  subtitle: 
   subtitle: Tec. Tecn.
   subtitle: Artes Plásticas
   subtitle: C. Naturales
@@ -48,7 +54,6 @@
 
 - title: Jueves
   title-url: https://example.com/
-  date: Feb 2022
   tags:
     - tag: Matemáticas
     - tag: Técnica Tecnologia
@@ -57,7 +62,6 @@
 
 - title: Viernes
   title-url: https://example.com/
-  date: Feb 2022
   subtitle: Fullstack Developer
   tags:
     - tag: C. Naturales
