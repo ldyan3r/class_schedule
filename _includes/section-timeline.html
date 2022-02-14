@@ -24,9 +24,9 @@
               {% if event.tags %}
               <div class="tag-wrapper">
                 {% for tag in event.tags %}
-                <span class="flag neumorphism-button" data-aos="zoom-in-right">
+                <span class="flag neumorphism-button">
                   <a href="{{event.title-url}}" target="_blank" rel="noreferrer">
-                    <span>{{tag.tag}}</span>
+                    <span class="tag neumorphism-card" data-aos="zoom-in-right">{{tag.tag}}</span>
                   {% endfor %}
                 </div>
               {% endif %}
