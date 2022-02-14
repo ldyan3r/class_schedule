@@ -15,7 +15,7 @@
         {% if project.tags %}
           <div class="tag-wrapper">
             {% for tag in project.tags %}
-              <a class="tag neumorphism-card" data-aos="zoom-in-right" href="{{event.title-url-T}}" target="_blank" rel="noreferrer">{{tag.tag}}</a>
+              <span class="tag neumorphism-card">{{tag.tag}}</span>
             {% endfor %}
           </div>
         {% endif %}
