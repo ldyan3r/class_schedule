@@ -31,17 +31,18 @@
   subtitle: 85% C4p4c!ty
   tags:
     - tag: Psicología
-    - tag: Edu. Física
-    - tag: C. Sociales
+    - tag: Educación Física
+    - tag: Ciencias Sociales
     - tag: Lenguaje
   timeline-side: right
 
-- title: Miercoles
+- title: Miércoles
   title-url: https://example.com/
   subtitle: 70% C4p4c!ty
-  subtitle: Tec. Tecn.
-  subtitle: Artes Plásticas
-  subtitle: C. Naturales
+  tags:
+    - tag: Técnica Tecnológica General
+    - tag: Artes Plásticas
+    - tag: Ciencias Naturales
   timeline-side: left
   
 - title: Jueves
@@ -49,7 +50,7 @@
   subtitle: 55% C4p4c!ty
   tags:
     - tag: Matemáticas
-    - tag: Técnica Tecnologia
+    - tag: Técnica Tecnológica General
     - tag: Lenguaje
   timeline-side: right
 
@@ -57,7 +58,7 @@
   title-url: https://example.com/
   subtitle: 40% C4p4c!ty
   tags:
-    - tag: C. Naturales
+    - tag: Ciencias Naturales
     - tag: Matemáticas
     - tag: Religión
   timeline-side: left
