@@ -38,6 +38,9 @@
 
 - title: Miércoles
   title-url: https://example.com/
+    - title-url-M: https://drive.google.com/drive/my-drive
+    - title-url-M: https://www.facebook.com/?ref=tn_tnmn
+    - title-url-M: https://www.youtube.com
   subtitle: 70% C4p4c!ty
   tags:
     - tag: Técnica Tecnológica General
