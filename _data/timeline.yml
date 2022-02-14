@@ -19,7 +19,7 @@
 
 - title: Lunes
   title-url: https://example.com/
-  subtitle: Fullstack Developer
+  subtitle: 100% C4p4c!ty
   tags:
     - tag: Lenguaje
     - tag: Inglés
@@ -28,7 +28,7 @@
 
 - title: Martes
   title-url: https://example.com/
-  subtitle: Fullstack Developer
+  subtitle: 85% C4p4c!ty
   tags:
     - tag: Psicología
     - tag: Edu. Física
@@ -38,22 +38,15 @@
 
 - title: Miercoles
   title-url: https://example.com/
-  subtitle: Fullstack Developer
+  subtitle: 70% C4p4c!ty
   subtitle: Tec. Tecn.
   subtitle: Artes Plásticas
   subtitle: C. Naturales
   timeline-side: left
   
-- title: 
-  title-url: 
-  subtitle: 
-  subtitle: Tec. Tecn.
-  subtitle: Artes Plásticas
-  subtitle: C. Naturales
-  timeline-side: left
-
 - title: Jueves
   title-url: https://example.com/
+  subtitle: 55% C4p4c!ty
   tags:
     - tag: Matemáticas
     - tag: Técnica Tecnologia
@@ -62,7 +55,7 @@
 
 - title: Viernes
   title-url: https://example.com/
-  subtitle: Fullstack Developer
+  subtitle: 40% C4p4c!ty
   tags:
     - tag: C. Naturales
     - tag: Matemáticas
