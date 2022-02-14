@@ -22,8 +22,10 @@
   subtitle: 100% C4p4c!ty
   tags:
     - tag: Lenguaje
-    - tag: Inglés
     - tag: Música
+    - tag: Inglés
+    - tag: Ciencias Sociales
+
   timeline-side: right
 
 - title: Martes
@@ -40,11 +42,8 @@
   title-url: https://example.com/
   subtitle: 70% C4p4c!ty
   tags:
-    - title-url-T: https://drive.google.com/drive/my-drive
     - tag: Técnica Tecnológica General
-    - title-url-T: https://www.youtube.com  
     - tag: Artes Plásticas
-    - title-url-T: https://www.facebook.com/?ref=tn_tnmn
     - tag: Ciencias Naturales
   timeline-side: left
   
