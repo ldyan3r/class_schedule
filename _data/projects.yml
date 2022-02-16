@@ -53,8 +53,8 @@
     
 - name: Técnica Tecnológica General
   descr: " "
-  demo: 
-  tags:https://us04web.zoom.us/j/4642747208?pwd=bk5WMkhiQ2lQc1lZNWkxRFQxZUxVdz09
+  demo: https://us04web.zoom.us/j/4642747208?pwd=bk5WMkhiQ2lQc1lZNWkxRFQxZUxVdz09
+  tags:
     - tag: Miercoles
  
 - name: Artes Plásticas
