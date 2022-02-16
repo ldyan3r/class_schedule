@@ -14,8 +14,7 @@
 #     - tag: Node
 
 - name: Lenguaje
-  descr: " "
-  demo: https://example.com/
+  demo: https://us04web.zoom.us/j/2128085368?pwd=YWx4bzV3RUI5Ykcyb2w1WkpXRDFwZz09
   tags:
     - tag: Lunes
     - tag: Martes
@@ -23,7 +22,7 @@
 
 - name: Música
   descr: " "
-  demo: https://example.com/
+  demo: https://us04web.zoom.us/j/76423416333?pwd=zO-K6IuzHrHaRYX1oMgLuXQ4QuQo5k.1
   tags:
     - tag: Lunes
 
@@ -35,7 +34,7 @@
  
 - name: Ciencias Sociales
   descr: " "
-  demo: https://example.com/
+  demo: https://meet.google.com/kyx-saaj-pua
   tags:
     - tag: Lunes
     - tag: Martes
@@ -51,3 +50,33 @@
   demo: https://example.com/
   tags:
     - tag: Martes
+    
+- name: Técnica Tecnológica General
+  descr: " "
+  demo: 
+  tags:
+    - tag: Miercoles
+ 
+- name: Artes Plásticas
+  descr: " "
+  demo: https://meet.google.com/bjj-wkdh-tdq 
+  tags:
+    - tag: Miercoles
+    
+- name: Ciencias Naturales
+  descr: " "
+  demo: https://meet.google.com/bpj-hqnc-mfi 
+  tags:
+    - tag: Miercoles
+    
+- name: Matemáticas
+  descr: " "
+  demo: https://example.com/
+  tags:
+    - tag: Jueves
+  
+ - name: Religión
+  descr: " "
+  demo: https://example.com/
+  tags:
+    - tag: Viernes
