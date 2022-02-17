@@ -22,9 +22,9 @@
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
               {{event.subtitle}}
               {% if event.tags %}
-              <div class="tag-wrapper">
+              <div class="tag-wrapper">              
                 {% for tag in event.tags %}
-                  <a class="tag neumorphism-card" data-aos="zoom-in-right" href="{{event.title-url}}" target="_blank" rel="noreferrer">{{tag.tag}}</a>
+                  <a class="tag neumorphism-card" data-aos="zoom-in-right" href="{{project.demo}}" target="_blank" rel="noreferrer">{{tag.tag}}</a>
                 {% endfor %}
                 </div>
               {% endif %}
