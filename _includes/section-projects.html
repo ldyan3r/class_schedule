@@ -5,11 +5,12 @@
       <div class="project neumorphism-card" data-aos="zoom-in-down">
         <div class="name-link-wrapper">
           <h3>{{project.name}}</h3>
-        </div>
         {% if project.demo %}
+          <h3>
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
-            Link
+            ...Meeting link
           </a>
+         </div>
         {% endif %}
         {% if project.tags %}
           <div class="tag-wrapper">
