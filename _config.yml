@@ -79,9 +79,9 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Calendario
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Tambien puedes suscribirte a mi calendario, en donde voy actualizando y agregando todas las tareas y examenes a presentar <a class="highlight-link" href="https://calendar.google.com/calendar/u/2?cid=MmxtMGQxNmc1MjRpNGUwaW9wOXBkdHR0bjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noreferrer"> Calendario </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
