@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: My School Website 🐈❤
+title: My School Website ❤
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -79,7 +79,7 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Calendario
+contact_title: Calendario �
 # contact_description: This will be displayed under the title.
 contact_description: Tambien puedes suscribirte a mi calendario, en donde voy actualizando y agregando todas las tareas y examenes a presentar <a class="highlight-link" href="https://calendar.google.com/calendar/u/2?cid=MmxtMGQxNmc1MjRpNGUwaW9wOXBkdHR0bjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank" rel="noreferrer"> Calendario </a>.
 
