@@ -14,7 +14,8 @@
 #     - tag: Node
 
 - name: Lenguaje
-  demo: https://us04web.zoom.us/j/2128085368?pwd=YWx4bzV3RUI5Ykcyb2w1WkpXRDFwZz09
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
+  descr: " "
   tags:
     - tag: Lunes
     - tag: Martes
@@ -22,61 +23,62 @@
 
 - name: Música
   descr: " "
-  demo: https://us04web.zoom.us/j/76423416333?pwd=zO-K6IuzHrHaRYX1oMgLuXQ4QuQo5k.1
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Lunes
 
 - name: Inglés
   descr: " "
-  demo: https://example.com/
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Lunes
  
 - name: Ciencias Sociales
   descr: " "
-  demo: https://meet.google.com/kyx-saaj-pua
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Lunes
     - tag: Martes
     
 - name: Psicología
   descr: " "
-  demo: https://example.com/
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Martes
 
 - name: Educación Física
   descr: " "
-  demo: https://example.com/
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Martes
     
 - name: Técnica Tecnológica General
   descr: " "
-  demo: https://us04web.zoom.us/j/4642747208?pwd=bk5WMkhiQ2lQc1lZNWkxRFQxZUxVdz09
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Miercoles
  
 - name: Artes Plásticas
   descr: " "
-  demo: https://meet.google.com/bjj-wkdh-tdq 
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Miercoles
     
 - name: Ciencias Naturales
   descr: " "
-  demo: https://meet.google.com/bpj-hqnc-mfi 
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Miercoles
     
 - name: Matemáticas
   descr: " "
-  demo: https://example.com/
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Jueves
+    - tag: Viernes
   
 - name: Religión
   descr: " "
-  demo: https://example.com/
+  demo: https://uefsanjuanillo.foroactivo.com/c27-primero-a-secundaria
   tags:
     - tag: Viernes
