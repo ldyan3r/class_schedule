@@ -21,10 +21,10 @@
   title-url: https://ldyan3r.github.io/meeting_links/
   subtitle: 100% C4p4c!ty
   tags:
-    - tag: Lenguaje
     - tag: Música
-    - tag: Inglés
+    - tag: Lenguaje
     - tag: Ciencias Sociales
+    - tag: Inglés
 
   timeline-side: right
 
@@ -33,9 +33,9 @@
   subtitle: 85% C4p4c!ty
   tags:
     - tag: Psicología
-    - tag: Educación Física
     - tag: Ciencias Sociales
     - tag: Lenguaje
+    - tag: Educación Física
   timeline-side: right
 
 - title: Miércoles
@@ -61,6 +61,6 @@
   subtitle: 40% C4p4c!ty
   tags:
     - tag: Ciencias Naturales
-    - tag: Matemáticas
     - tag: Religión
+    - tag: Matemáticas
   timeline-side: left
